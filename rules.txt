@@ -1,0 +1,4 @@
+project rules:
+pr
+review
+push/pull
